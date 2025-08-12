@@ -64,6 +64,12 @@ Se creo una nueva rama para trabajar paralelamente sin afectar los archivos de l
 
 <img src="images/7.png" alt="Diagrama de flujo" width="800"/>
 
+### 3.2 commit en rama nueva
+
+se realizo un commit en esa nueva rama con un archivo test que logea "hola mundo" en consola
+
+<img src="images/8.png" alt="Diagrama de flujo" width="800"/>
+
 ## 3. Repositorio remoto
 
 se subieron los archivos de la aplicación a un repositorio remoto en github
