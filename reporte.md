@@ -10,13 +10,19 @@ se descargo los archivos del proyecto, se añadio un .gitignore y se inicializo 
 
 luego se agregaron todos los archivos del proyecto y se realizo un commit inicial con los mismos
 
-<img src="images/2.png" alt="Diagrama de flujo" width="800"/>
+<img src="images/2.png" alt="Diagrama de flujo" width="400"/>
+
+### 1.3 - logear commits
+
+para saber en que estado estaba el repositorio se realizo un log de los commits
+
+<img src="images/3.png" alt="Diagrama de flujo" width="800"/>
 
 ### 1.3 - Instalación de dependencias
 
-para terminal el proceso de setup se procedio a instalar las dependencias del proyecto con pip
+para terminal el proceso de setup se procedio a instalar las dependencias del proyecto con pip dentro de un nuevo entorno virtual de python
 
-<img src="images/3.png" alt="Diagrama de flujo" width="800"/>
+<img src="images/4.png" alt="Diagrama de flujo" width="800"/>
 
 ## 2. Desarrollo de la aplicación
 
@@ -42,7 +48,7 @@ Para lanzar la aplicación, se utilizo el siguiente comando en la terminal:
 python app.py
 ```
 
-<img src="images/4.png" alt="Diagrama de flujo" width="800"/>
+<img src="images/5.png" alt="Diagrama de flujo" width="800"/>
 
 ### 2.3 - nuevo commit
 
