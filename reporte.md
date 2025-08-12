@@ -52,9 +52,17 @@ python app.py
 
 ### 2.3 - nuevo commit
 
-Se realizo un nuevo commit con los cambios realizados en la aplicación.
+Se realizo un nuevo commit con los cambios realizados en la aplicación y se logeo de nuevo el historial de commits
 
-<img src="images/5.png" alt="Diagrama de flujo" width="800"/>
+<img src="images/6.png" alt="Diagrama de flujo" width="800"/>
+
+## 3. Trabajar en diferentes ramas
+
+### 3.1 Se creo una nueva rama
+
+Se creo una nueva rama para trabajar paralelamente sin afectar los archivos de la rama principal.
+
+<img src="images/7.png" alt="Diagrama de flujo" width="800"/>
 
 ## 3. Repositorio remoto
 
